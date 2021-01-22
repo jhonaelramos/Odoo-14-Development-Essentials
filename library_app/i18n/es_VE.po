@@ -56,7 +56,7 @@ msgstr "Configuración"
 #. module: library_app
 #: model:ir.model.fields,field_description:library_app.field_library_book__image
 msgid "Cover"
-msgstr "Cubrir"
+msgstr "Portada"
 
 #. module: library_app
 #: model:ir.model.fields,field_description:library_app.field_library_book__create_uid
