@@ -1,0 +1,144 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* library_app
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0-20210112\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-21 03:24+0000\n"
+"PO-Revision-Date: 2021-01-20 23:25-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"Language: es_VE\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#. module: library_app
+#: model_terms:ir.ui.view,arch_db:library_app.view_search_book
+msgid "Active"
+msgstr "Activo"
+
+#. module: library_app
+#: model:ir.model.fields,field_description:library_app.field_library_book__active
+msgid "Active?"
+msgstr "Activo?"
+
+#. module: library_app
+#: model:ir.model.fields,field_description:library_app.field_library_book__author_ids
+msgid "Authors"
+msgstr "Autores"
+
+#. module: library_app
+#: model:ir.model,name:library_app.model_library_book
+msgid "Book"
+msgstr "Libro"
+
+#. module: library_app
+#: model:ir.ui.menu,name:library_app.menu_library_book
+#: model_terms:ir.ui.view,arch_db:library_app.book_list_template
+msgid "Books"
+msgstr "Libros"
+
+#. module: library_app
+#: model_terms:ir.ui.view,arch_db:library_app.view_form_book
+msgid "Check ISBN"
+msgstr "Verificar ISBN"
+
+#. module: library_app
+#: model:ir.ui.menu,name:library_app.menu_library_configuration
+msgid "Configuration"
+msgstr "Configuración"
+
+#. module: library_app
+#: model:ir.model.fields,field_description:library_app.field_library_book__image
+msgid "Cover"
+msgstr "Cubrir"
+
+#. module: library_app
+#: model:ir.model.fields,field_description:library_app.field_library_book__create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: library_app
+#: model:ir.model.fields,field_description:library_app.field_library_book__create_date
+msgid "Created on"
+msgstr "Creado en"
+
+#. module: library_app
+#: model:ir.model.fields,field_description:library_app.field_library_book__date_published
+msgid "Date Published"
+msgstr "Fecha de publicación"
+
+#. module: library_app
+#: model:ir.model.fields,field_description:library_app.field_library_book__display_name
+msgid "Display Name"
+msgstr "Nombre para mostrar"
+
+#. module: library_app
+#: model:ir.model.fields,field_description:library_app.field_library_book__id
+msgid "ID"
+msgstr "ID"
+
+#. module: library_app
+#: model:ir.model.fields,field_description:library_app.field_library_book__isbn
+msgid "ISBN"
+msgstr "ISBN"
+
+#. module: library_app
+#: model_terms:ir.ui.view,arch_db:library_app.view_search_book
+msgid "Inactive"
+msgstr "Inactivo"
+
+#. module: library_app
+#: model:ir.model.fields,field_description:library_app.field_library_book____last_update
+msgid "Last Modified on"
+msgstr "Última modificación el"
+
+#. module: library_app
+#: model:ir.model.fields,field_description:library_app.field_library_book__write_uid
+msgid "Last Updated by"
+msgstr "Última actualización por"
+
+#. module: library_app
+#: model:ir.model.fields,field_description:library_app.field_library_book__write_date
+msgid "Last Updated on"
+msgstr "Ultima actualización en"
+
+#. module: library_app
+#: model:res.groups,name:library_app.library_group_user
+msgid "Librarian"
+msgstr "Usuario"
+
+#. module: library_app
+#: model:ir.ui.menu,name:library_app.menu_library
+msgid "Library"
+msgstr "Biblioteca"
+
+#. module: library_app
+#: model:ir.actions.act_window,name:library_app.action_library_book
+msgid "Library Books"
+msgstr "Libros de la biblioteca"
+
+#. module: library_app
+#: model:res.groups,name:library_app.library_group_manager
+msgid "Manager"
+msgstr "Gerente"
+
+#. module: library_app
+#: model:ir.model.fields,field_description:library_app.field_library_book__publisher_id
+msgid "Publisher"
+msgstr "Editor"
+
+#. module: library_app
+#: model:ir.model.fields,field_description:library_app.field_library_book__name
+msgid "Title"
+msgstr "Título"
+
+#. module: library_app
+#: model:ir.model.fields,help:library_app.field_library_book__isbn
+msgid "Use a valid ISBN-13 or ISBN-10."
+msgstr "Utilice un ISBN-13 o ISBN-10 válido."
